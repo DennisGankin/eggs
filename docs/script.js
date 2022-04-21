@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
             var toast = new bootstrap.Toast(toastLiveExample)
             toast.show()
         } else {
-            window.location.href="route.html"
+            window.location.href="https://dennisgankin.github.io/eggs/route.html"
         }
 
 
